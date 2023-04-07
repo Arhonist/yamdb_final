@@ -1,6 +1,6 @@
 # api_final_yatube
 
-![Это API сервиса YaMDB, собирающего отзывы пользователей на различные произведения](https://github.com/Arhonist/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![Это API сервиса YaMDB, собирающего отзывы пользователей на различные произведения](https://github.com/Arhonist/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание
 
