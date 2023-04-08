@@ -1,4 +1,8 @@
-# api_final_yatube
+# yamdb_final
+
+Сервер доступен по адресу:
+
+http://51.250.20.218/api/v1/
 
 ![Это API сервиса YaMDB, собирающего отзывы пользователей на различные произведения](https://github.com/Arhonist/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
