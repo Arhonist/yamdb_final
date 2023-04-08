@@ -43,6 +43,7 @@ jobs:
       - name: Push to Docker Hub
         uses: docker/build-push-action@master
         with:
+          context: ./api_yamdb
           push: true
           tags: arhonist/yamdb_final:latest
 
