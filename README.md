@@ -28,13 +28,13 @@ DB_PORT=5432
 
 ```
 
-git clone git@github.com:Arhonist/infra_sp2.git
+git clone git@github.com:Arhonist/yamdb_final.git
 
 ```
 
 ```
 
-cd infra_sp2/infra
+cd yamdb_final/infra
 
 ```
 
@@ -46,10 +46,10 @@ docker-compose up -d --build
 
 ```
 
-Перейдите в контейнер infra_web_1:
+Перейдите в контейнер <USERNAME>_web_1:
 
 ```
-sudo docker exec -it infra_web_1 bash
+sudo docker exec -it <USERNAME>_web_1 bash
 
 ```
 
