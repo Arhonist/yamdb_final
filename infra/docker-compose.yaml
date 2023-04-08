@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: arhonist/infra_sp2:latest
+    image: arhonist/yamdb_final:latest
     restart: always
     volumes:
       - static_value:/app/static/
